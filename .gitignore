@@ -1,3 +1,4 @@
 /data
 /project/data/*
 !/project/data/coins
+!/project/data/labeled_coins
