@@ -1,0 +1,10 @@
+Pillow
+scikit-image
+scikit-learn
+torch
+torchvision
+tqdm
+numpy
+matplotlib
+seaborn
+opencv-python
